@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'nimble:restivus',
+  name: 'knoid:restivus',
   summary: 'Create authenticated REST APIs in Meteor 0.9+ via HTTP/HTTPS. Setup CRUD endpoints for Collections.',
   version: '0.8.10',
-  git: 'https://github.com/kahmali/meteor-restivus.git'
+  git: 'https://github.com/knoid/meteor-restivus.git'
 });
 
 
